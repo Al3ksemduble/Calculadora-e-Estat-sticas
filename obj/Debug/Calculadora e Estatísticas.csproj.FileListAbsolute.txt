@@ -1,0 +1,12 @@
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\bin\Debug\Calculadora e Estatísticas.exe.config
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\bin\Debug\Calculadora e Estatísticas.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\bin\Debug\Calculadora e Estatísticas.pdb
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora e Estatísticas.csproj.AssemblyReference.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora_e_Estatísticas.FrmPrincipal.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora_e_Estatísticas.Properties.Resources.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora e Estatísticas.csproj.GenerateResource.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora e Estatísticas.csproj.CoreCompileInputs.cache
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora e Estatísticas.exe
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora e Estatísticas.pdb
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora_e_Estatísticas.FrmCalculadora.resources
+C:\Users\ah097\OneDrive\Área de Trabalho\workspace\facul\atividades\csharp-aula04\projetos\calculadora\Calculadora e Estatísticas\Calculadora e Estatísticas\obj\Debug\Calculadora_e_Estatísticas.FrmMedia.resources
